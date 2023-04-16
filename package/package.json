@@ -11,5 +11,15 @@
   },
   "author": "Gurpreet707",
   "license": "ISC",
-  "keywords": ["pokename-gopi"]
+  "keywords": [
+    "pokename-gopi"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gurpreet707/pokename.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gurpreet707/pokename/issues"
+  },
+  "homepage": "https://github.com/Gurpreet707/pokename#readme"
 }
