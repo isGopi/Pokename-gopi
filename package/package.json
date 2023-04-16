@@ -1,0 +1,15 @@
+{
+  "name": "pokename-gopi",
+  "version": "1.0.0",
+  "description": "Module for Pokemon",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gurpreet707",
+  "license": "ISC",
+  "keywords": ["pokename-gopi"]
+}
