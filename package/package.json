@@ -1,6 +1,6 @@
 {
   "name": "pokename-gopi",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Module for Pokemon",
   "main": "index.js",
   "directories": {
@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gurpreet707/pokename.git"
+    "url": "git+https://github.com/Gurpreet707/Pokename-gopi.git"
   },
   "bugs": {
-    "url": "https://github.com/Gurpreet707/pokename/issues"
+    "url": "https://github.com/Gurpreet707/Pokename-gopi/issues"
   },
-  "homepage": "https://github.com/Gurpreet707/pokename#readme"
+  "homepage": "https://github.com/Gurpreet707/Pokename-gopi#readme"
 }
