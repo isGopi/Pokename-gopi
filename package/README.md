@@ -1,4 +1,4 @@
-# Npm Module (pokename) By Gurpreet707
+# Npm Module (pokename) By isGopi
 
 Gen 9 included.
 This is a simple package to get pokemon name, ids, random pokemon.
